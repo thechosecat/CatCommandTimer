@@ -1,0 +1,7 @@
+name: CatCommandTimer
+version: '${project.version}'
+main: org.catcommandtimer.CatCommandTimer
+api-version: '1.20'
+commands:
+  'CatCommandTimer_reload':
+    usage: /CatCommandTimer_reload
